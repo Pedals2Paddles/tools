@@ -57,7 +57,7 @@ buildWAF() {
 
     cd /mnt/c/github/ardupilot/
     ./waf configure --board CubeBlack
-    ./waf copter
+    ./waf copter -j1 --no-submodule-update
 }
 
 setParms() {
