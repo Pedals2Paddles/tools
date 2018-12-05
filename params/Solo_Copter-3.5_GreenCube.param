@@ -1,4 +1,4 @@
-# NOTE: 12/23/2017: Required parameters for a 3DR Solo with ArduCopter 3.5. NOT for ArduCopter 3.6!
+# 3DR Solo with Green Cube on Copter 3.5 only
 ACCEL_Z_I,1.5
 ACCEL_Z_P,0.75
 ACRO_RP_P,4
